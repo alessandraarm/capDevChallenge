@@ -1,3 +1,7 @@
+# CAP - SAP Developer Challenge - July/2023
+
+[Challenge Link](https://blogs.sap.com/2023/07/05/sap-developer-challenge-sap-cloud-application-programming-model/)
+
 # Getting Started
 
 Welcome to your new project.
